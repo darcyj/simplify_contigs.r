@@ -1,5 +1,6 @@
 # simplify_contigs.r
 Simplifies output from genome/metagenome assembly by combining contigs with redundant regions
+
 by Jack Darcy, Oct 2017
 
 My metagenome assembly pipeline is as follows:
