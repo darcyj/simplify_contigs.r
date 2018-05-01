@@ -7,7 +7,7 @@ removefastacarat <- function(seqids){
 
 # functions to reverse-compliment a sequence
 complimnet <- function(x){
-	out <- "F"
+	out <- "-"
 	if(x == "C"){out <- "G"}
 	if(x == "G"){out <- "C"}
 	if(x == "A"){out <- "T"}
